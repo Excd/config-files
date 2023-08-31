@@ -1,1 +1,1 @@
-A collection of my personal video game and software configuration files.
+A collection of my personal video game related configuration files.
